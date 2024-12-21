@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    border-bottom: 2px solid navy;
+    border-radius: 50px;
+}
+
+p{
+   font-size:20px;
+}
+
+h2{
+    border: 2px solid navy ;
+    border-radius: 50px;
+}
+
+img{
+    border: 2px solid navy;
+    border-radius: 50px;
+}
+
+
